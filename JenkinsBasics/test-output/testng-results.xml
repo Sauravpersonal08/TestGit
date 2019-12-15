@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-12-15T18:02:16 IST" name="Default suite" finished-at="2019-12-15T18:02:35 IST" duration-ms="19018">
+    <groups>
+    </groups>
+    <test started-at="2019-12-15T18:02:16 IST" name="Default test" finished-at="2019-12-15T18:02:35 IST" duration-ms="19018">
+      <class name="JenkinsBasics.JenkinsBasics.JenkinsOpenBrowser">
+        <test-method signature="OpenBrowser()[pri:0, instance:JenkinsBasics.JenkinsBasics.JenkinsOpenBrowser@2177849e]" started-at="2019-12-15T18:02:16 IST" name="OpenBrowser" finished-at="2019-12-15T18:02:35 IST" duration-ms="18936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+      </class> <!-- JenkinsBasics.JenkinsBasics.JenkinsOpenBrowser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
