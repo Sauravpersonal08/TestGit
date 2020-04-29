@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="JenkinsBasics.JenkinsBasics.AppTest"/>
+      <class name="JenkinsBasics.JenkinsBasics.JenkinsOpenBrowser"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

@@ -16,7 +16,7 @@ public class JenkinsOpenBrowser {
 		driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 		driver.manage().window().maximize();
 		driver.navigate().to("https://google.com");
-		driver.quit();
+		
 	}
 
 }
